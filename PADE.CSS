@@ -1,13 +1,12 @@
 body{
-    /* background-color: rgb(250, 230, 255); */
-    background-color: #98189a;
+    background-color: rgb(250, 230, 255); 
     
 }
 *, :after, :before {
     box-sizing: border-box;
 }
 ._formTitle{
-    background: #98189a;
+    background:black;
     color: #fff;
      font-family: "Bree Serif",serif!important;;
      justify-content: center;
@@ -58,7 +57,7 @@ p {
 }
 .login {
     text-align: center!important;
-     background-color: #fff; 
+     background-color: aqua;
      padding-bottom: 30px; 
      border-radius: 5px; 
      box-shadow: 0 10px 13px -7px #000, 5px 5px 8px 5px transparent; 
